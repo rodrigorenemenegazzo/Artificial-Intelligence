@@ -1,0 +1,29 @@
+Topics studied and related to text-mining
+
+1.Medidas descritivas para texto.
+1. Noções de linguística.
+2. Índices de diversidade, abundância e riqueza.
+2.Abordagens para a mineração de texto.
+1. Bag of words (BOW) e NLP.
+2. Manipulação de cadeias de caracteres.
+3. Pré-processamento para BOW.
+3.Visualização em mineração de texto.
+1. Termos frequentes, associações e redes de
+relacionamento.
+2. Dendogramas, núvem de palavras.
+4.Análise de sentimentos.
+1. Aplicação de acervos léxicos.
+2. Métodos alternativos.
+5. Análise de agrupamento.
+1. Medidas de distância e similaridade.
+2. K-médias e variações.
+6.Modelagem de tópicos.
+1. Latent Dirichlet allocation (LDA em linguagem
+natural).
+2. Abordagens text2vec.
+7.Modelagem preditiva apoiada em texto.
+1. Classificação e predição.
+2. Engenharia de características.
+8.Introdução ao processamento natural da linguagem.
+1. Rotulação de partes do discurso (POS tagging).
+2. Extração de entidades.
